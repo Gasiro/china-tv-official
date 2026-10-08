@@ -1,6 +1,6 @@
 # 官方直播检查报告
 
-检测时间（UTC）：2026-10-08T02:45:41.510784+00:00；网络出口：US
+检测时间（UTC）：2026-10-08T13:46:16.313540+00:00；网络出口：US
 
 “可用”指本次英国出口技术检查通过；不是长期保证或第三方播放授权证明。APTV 人工播放另列。
 
@@ -28,8 +28,8 @@
 | [CCTV-4 中文国际（美）](https://tv.cctv.com/live/cctvamerica/) | 受限 | 官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM |
 | [湖南卫视](https://www.mgtv.com/live-new?_source_=C) | 未验证 | 官网入口可读取；动态播放接口未完成无鉴权直连核实 |
 | [浙江卫视](https://ztv.cztv.com/live/index.html) | 未验证 | 官网直播入口可读取；静态核查未确认频道对应的无鉴权 HLS |
-| [江苏卫视](https://live.jstv.com/) | 未验证 | 连接超时 |
-| [东方卫视](https://live.kankanews.com/huikan?id=10) | 未验证 | 官网回看/直播入口可读取；频道动态接口未完成直连核实 |
+| [江苏卫视](https://live.jstv.com/) | 受限 | HTTP 403（不能仅据此判断地域限制） |
+| [东方卫视](https://live.kankanews.com/huikan?id=10) | 未验证 | 网络读取失败（curl 92） |
 | [北京卫视](https://www.brtn.cn/btv/btvsy_index) | 未验证 | 官网可读取并链接北京时间直播；尚未确认频道对应的公开直连 HLS |
 | [广东卫视](https://www.gdtv.cn/) | 未验证 | 官网入口可读取；频道动态接口未完成直连核实 |
 | [深圳卫视](https://www.sztv.com.cn/) | 未验证 | 官网有直播入口；频道动态接口未完成直连核实 |
