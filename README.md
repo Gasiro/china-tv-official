@@ -42,7 +42,7 @@ python3 maintain.py --scope uk
 
 ## GitHub 部署
 
-本仓库计划使用 `Gasiro/china-tv-official`。若自行部署到其他仓库，请替换文档中的账号和仓库名。
+本仓库已部署到 [Gasiro/china-tv-official](https://github.com/Gasiro/china-tv-official)。下面的创建命令仅供重新部署参考；若已有仓库，不要重复创建。若部署到其他仓库，请替换文档中的账号和仓库名。
 
 ```sh
 gh auth status
