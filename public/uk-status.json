@@ -1,0 +1,11 @@
+{
+  "state": "verified_run",
+  "country": "GB",
+  "checked_at": "2026-10-08T02:40:39.820350+00:00",
+  "valid_until": "2026-10-09T02:40:39.820350+00:00",
+  "counts": {
+    "available": 0,
+    "restricted": 23,
+    "unverified": 10
+  }
+}

@@ -1,0 +1,741 @@
+{
+  "checked_at": "2026-10-08T02:40:39.820350+00:00",
+  "country": "GB",
+  "scope": "uk",
+  "geo_method": "Cloudflare country code only; no IP retained",
+  "valid_until": "2026-10-09T02:40:39.820350+00:00",
+  "counts": {
+    "available": 0,
+    "restricted": 23,
+    "unverified": 10
+  },
+  "channels": [
+    {
+      "id": "CCTV1.cn",
+      "name": "CCTV-1 综合",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv1/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctv1/",
+          "final_url": "https://tv.cctv.com/live/cctv1/",
+          "http_status": 200,
+          "sha256": "2d177651c363c3dba68d0626d490ca644a17350494ce1e864a4aa7e1c2de947b"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV2.cn",
+      "name": "CCTV-2 财经",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv2/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctv2/",
+          "final_url": "https://tv.cctv.com/live/cctv2/",
+          "http_status": 200,
+          "sha256": "e1e3b0925cbf07cb1fa9018587d66b4d17032e36a4a1a9bd22239a393c86dfc8"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV3.cn",
+      "name": "CCTV-3 综艺",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv3/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctv3/",
+          "final_url": "https://tv.cctv.com/live/cctv3/",
+          "http_status": 200,
+          "sha256": "eab879534609900d2e78ae60ec3d9707bf95b6f605b386381cd066f238e443ba"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV4.cn",
+      "name": "CCTV-4 中文国际（亚）",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv4/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctv4/",
+          "final_url": "https://tv.cctv.com/live/cctv4/",
+          "http_status": 200,
+          "sha256": "61aa7b64bb404f9283a73f621ec6a9a570374a5c5e10cf9ac348edb328cb63e6"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV5.cn",
+      "name": "CCTV-5 体育",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv5/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctv5/",
+          "final_url": "https://tv.cctv.com/live/cctv5/",
+          "http_status": 200,
+          "sha256": "d0ad77a911999c0250a93bb3287b3537d1e1ac05d912147ecc42eddcb1388180"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV6.cn",
+      "name": "CCTV-6 电影",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv6/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctv6/",
+          "final_url": "https://tv.cctv.com/live/cctv6/",
+          "http_status": 200,
+          "sha256": "9a039a0327ecc5585e13cb06209f5afb968b6698850dcb53f1fe607344049cf8"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV7.cn",
+      "name": "CCTV-7 国防军事",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv7/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctv7/",
+          "final_url": "https://tv.cctv.com/live/cctv7/",
+          "http_status": 200,
+          "sha256": "af135304985c073dd2cf2f9be3bff37225311c7a380f2dae4eaea740a0a2643d"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV8.cn",
+      "name": "CCTV-8 电视剧",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv8/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctv8/",
+          "final_url": "https://tv.cctv.com/live/cctv8/",
+          "http_status": 200,
+          "sha256": "fab5b9076e0029b27a55f9089676dde7deec120793af61663c33c5e6b9d8b38f"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV9.cn",
+      "name": "CCTV-9 纪录",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctvjilu/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctvjilu/",
+          "final_url": "https://tv.cctv.com/live/cctvjilu/",
+          "http_status": 200,
+          "sha256": "345a9585e91f969cb7c11118cb177a2793629122ca692b0e1e04c4011043aa3b"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV10.cn",
+      "name": "CCTV-10 科教",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv10/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctv10/",
+          "final_url": "https://tv.cctv.com/live/cctv10/",
+          "http_status": 200,
+          "sha256": "95c5cb261155faec5373361dd7e537e0b82bd98e7594679c04d1fabf631e4ab1"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV11.cn",
+      "name": "CCTV-11 戏曲",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv11/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctv11/",
+          "final_url": "https://tv.cctv.com/live/cctv11/",
+          "http_status": 200,
+          "sha256": "37d6d0ae87870c769e53ee694f0bc7785fa74599d758aa7155c0ff5b6cec88f5"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV12.cn",
+      "name": "CCTV-12 社会与法",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv12/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctv12/",
+          "final_url": "https://tv.cctv.com/live/cctv12/",
+          "http_status": 200,
+          "sha256": "f6c8f97b9a49a29eb076493f4f9248c1a57a8613b1aaedd204e3c3dbea0910e1"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV13.cn",
+      "name": "CCTV-13 新闻",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv13/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctv13/",
+          "final_url": "https://tv.cctv.com/live/cctv13/",
+          "http_status": 200,
+          "sha256": "4db6770dcf5bb0e8e146791d54dbfc34ce169140854309052ff476154b477af9"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV14.cn",
+      "name": "CCTV-14 少儿",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctvchild/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctvchild/",
+          "final_url": "https://tv.cctv.com/live/cctvchild/",
+          "http_status": 200,
+          "sha256": "51ac6ae717f21b8862c2ccb3140d4d522b98253e327447867f5ffb10c3b8c53f"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV15.cn",
+      "name": "CCTV-15 音乐",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv15/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctv15/",
+          "final_url": "https://tv.cctv.com/live/cctv15/",
+          "http_status": 200,
+          "sha256": "5e782865efa4b6271b563dcfccab8a0e377ef12121b60625f0079cf3bf8e5286"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV16.cn",
+      "name": "CCTV-16 奥林匹克",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv16/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctv16/",
+          "final_url": "https://tv.cctv.com/live/cctv16/",
+          "http_status": 200,
+          "sha256": "c5673e974cd20afacc685eed840fc71847bb7385e1ce830fcc142718e8d1b13c"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV17.cn",
+      "name": "CCTV-17 农业农村",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv17/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctv17/",
+          "final_url": "https://tv.cctv.com/live/cctv17/",
+          "http_status": 200,
+          "sha256": "d9d35505cc5b8529c388c3e920d683c52326ade68666eff11fdeef57d92aeb88"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV5Plus.cn",
+      "name": "CCTV-5+ 体育赛事",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv5plus",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctv5plus",
+          "final_url": "https://tv.cctv.com/live/cctv5plus/",
+          "http_status": 200,
+          "sha256": "d1143338987e33cbe6bef21e0c6598b4553045d3ad2abb1da0d2da5c6f2e82eb"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV4Europe.cn",
+      "name": "CCTV-4 中文国际（欧）",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctveurope/index.shtml",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctveurope/index.shtml",
+          "final_url": "https://tv.cctv.com/live/cctveurope/index.shtml",
+          "http_status": 200,
+          "sha256": "fbfd98ab76a34c7f77b5069da7ae10a20a1e7ff9435c8afd917f0ccd1d190fea"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "CCTV4America.cn",
+      "name": "CCTV-4 中文国际（美）",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctvamerica/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://tv.cctv.com/live/cctvamerica/",
+          "final_url": "https://tv.cctv.com/live/cctvamerica/",
+          "http_status": 200,
+          "sha256": "6767be148b9022b0e03b051df7494fac7d564a72fe2e46c85f1b5e6cb5f7f2c7"
+        },
+        {
+          "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "final_url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
+          "http_status": 200,
+          "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
+    },
+    {
+      "id": "Hunan.cn",
+      "name": "湖南卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://www.mgtv.com/live-new?_source_=C",
+      "status": "unverified",
+      "evidence": [
+        {
+          "url": "https://www.mgtv.com/live-new",
+          "final_url": "https://www.mgtv.com/live-new",
+          "http_status": 200,
+          "sha256": "eb2d42799595f8028fc0618a773d435dbdcf9fc86dfa7a08b14465ac566b23cd"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官网入口可读取；动态播放接口未完成无鉴权直连核实"
+    },
+    {
+      "id": "Zhejiang.cn",
+      "name": "浙江卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://ztv.cztv.com/live/index.html",
+      "status": "unverified",
+      "evidence": [
+        {
+          "url": "https://ztv.cztv.com/live/index.html",
+          "final_url": "https://ztv.cztv.com/live/index.html",
+          "http_status": 200,
+          "sha256": "371b81db3d870c5772ca185a629a965e859c2a9081c4438bf769d9e890dc8c2f"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官网直播入口可读取；静态核查未确认频道对应的无鉴权 HLS"
+    },
+    {
+      "id": "Jiangsu.cn",
+      "name": "江苏卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://live.jstv.com/",
+      "status": "unverified",
+      "evidence": [],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "reason": "连接超时"
+    },
+    {
+      "id": "Dragon.cn",
+      "name": "东方卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://live.kankanews.com/huikan?id=10",
+      "status": "unverified",
+      "evidence": [
+        {
+          "url": "https://live.kankanews.com/huikan",
+          "final_url": "https://live.kankanews.com/huikan",
+          "http_status": 200,
+          "sha256": "d6501f0939b54653f9c3d52513e3160d80f3cf1ebb04a393031ad7c19a087521"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官网回看/直播入口可读取；频道动态接口未完成直连核实"
+    },
+    {
+      "id": "Beijing.cn",
+      "name": "北京卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://www.brtn.cn/btv/btvsy_index",
+      "status": "unverified",
+      "evidence": [
+        {
+          "url": "https://www.brtn.cn/btv/btvsy_index",
+          "final_url": "https://www.btime.com/btv/btvsy_index",
+          "http_status": 200,
+          "sha256": "5f65ea85fd5bb65330933c655b4b1e81e2c73fffd1cce78aeafafa3414970c79"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官网可读取并链接北京时间直播；尚未确认频道对应的公开直连 HLS"
+    },
+    {
+      "id": "Guangdong.cn",
+      "name": "广东卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://www.gdtv.cn/",
+      "status": "unverified",
+      "evidence": [
+        {
+          "url": "https://www.gdtv.cn/",
+          "final_url": "https://www.gdtv.cn/",
+          "http_status": 200,
+          "sha256": "bb30b537692fddf831751955e634e310be91841f084d8139a74abb8ac2c72d4e"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官网入口可读取；频道动态接口未完成直连核实"
+    },
+    {
+      "id": "Shenzhen.cn",
+      "name": "深圳卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://www.sztv.com.cn/",
+      "status": "unverified",
+      "evidence": [
+        {
+          "url": "https://www.sztv.com.cn/",
+          "final_url": "https://www.sztv.com.cn/",
+          "http_status": 200,
+          "sha256": "2a33284c3458a1276e4d589129e3ccf74386f6c3fad9ea4e7be5a097e4dd70cd"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官网有直播入口；频道动态接口未完成直连核实"
+    },
+    {
+      "id": "Shandong.cn",
+      "name": "山东卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://v.iqilu.com/live/sdtv/index.html",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://v.iqilu.com/live/sdtv/index.html",
+          "final_url": "https://v.iqilu.com/live/sdtv/index.html",
+          "http_status": 200,
+          "sha256": "82331f7b16b648657844408cf5feb163adc718c38a09abe98dd3b05c55df7c98"
+        },
+        {
+          "url": "https://file.iqilu.com/custom/v/zhibo/js/time-shifting-local.js",
+          "final_url": "https://file.iqilu.com/custom/v/zhibo/js/time-shifting-local.js",
+          "http_status": 200,
+          "sha256": "4f686ba57f903e2f845853fe7b782f1744f3cd2d503c9b89fd5d963c901c995e"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方播放请求使用签名和加密配置；不生成签名或解密响应"
+    },
+    {
+      "id": "Henan.cn",
+      "name": "河南卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://static.hntv.tv/kds/",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://static.hntv.tv/kds/",
+          "final_url": "https://static.hntv.tv/kds/",
+          "http_status": 200,
+          "sha256": "edcece3dc70b084fe0d222bef42eb26290f5ab116a50b4631c78294f640a80a6"
+        },
+        {
+          "url": "https://static.hntv.tv/kds/js/pages/kds/kds.8f560788.js",
+          "final_url": "https://static.hntv.tv/kds/js/pages/kds/kds.8f560788.js",
+          "http_status": 200,
+          "sha256": "55189c00e6ea24b2b8c80758a9e37a4d4f9826577ada8e4c4f06a659bcdac496"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方频道接口要求 sign/timestamp；不生成鉴权参数"
+    },
+    {
+      "id": "Hubei.cn",
+      "name": "湖北卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://news.hbtv.com.cn/app/tv/431",
+      "status": "restricted",
+      "evidence": [
+        {
+          "url": "https://news.hbtv.com.cn/app/tv/431",
+          "final_url": "https://news.hbtv.com.cn/app/tv/431",
+          "http_status": 200,
+          "sha256": "a208afbb77c5558845c2ddb1e9b0bf8b31995e48f219269cc75620cba56816b0"
+        }
+      ],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "page_accessible": true,
+      "reason": "官方地址带查询参数/签名；不复制到公开订阅"
+    },
+    {
+      "id": "Southeast.cn",
+      "name": "东南卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://www.setv.fjtv.net/live/",
+      "status": "unverified",
+      "evidence": [],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "reason": "TLS 证书校验失败"
+    },
+    {
+      "id": "Sichuan.cn",
+      "name": "四川卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://www.sctv.com/",
+      "status": "unverified",
+      "evidence": [],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "reason": "HTTP 405（不能仅据此判断地域限制）"
+    },
+    {
+      "id": "Anhui.cn",
+      "name": "安徽卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://www.ahtv.cn/",
+      "status": "unverified",
+      "evidence": [],
+      "country": "GB",
+      "aptv_playback": "未验证",
+      "reason": "连接超时"
+    }
+  ]
+}

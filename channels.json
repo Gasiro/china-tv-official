@@ -1,0 +1,386 @@
+{
+  "schema_version": 1,
+  "policy": "Only official clear HTTPS HLS, no signatures/cookies/decryption. Empty subscription is valid.",
+  "channels": [
+    {
+      "id": "CCTV1.cn",
+      "name": "CCTV-1 综合",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv1/",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV2.cn",
+      "name": "CCTV-2 财经",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv2/",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV3.cn",
+      "name": "CCTV-3 综艺",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv3/",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV4.cn",
+      "name": "CCTV-4 中文国际（亚）",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv4/",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV5.cn",
+      "name": "CCTV-5 体育",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv5/",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV6.cn",
+      "name": "CCTV-6 电影",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv6/",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV7.cn",
+      "name": "CCTV-7 国防军事",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv7/",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV8.cn",
+      "name": "CCTV-8 电视剧",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv8/",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV9.cn",
+      "name": "CCTV-9 纪录",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctvjilu/",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV10.cn",
+      "name": "CCTV-10 科教",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv10/",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV11.cn",
+      "name": "CCTV-11 戏曲",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv11/",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV12.cn",
+      "name": "CCTV-12 社会与法",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv12/",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV13.cn",
+      "name": "CCTV-13 新闻",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv13/",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV14.cn",
+      "name": "CCTV-14 少儿",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctvchild/",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV15.cn",
+      "name": "CCTV-15 音乐",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv15/",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV16.cn",
+      "name": "CCTV-16 奥林匹克",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv16/",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV17.cn",
+      "name": "CCTV-17 农业农村",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv17/",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV5Plus.cn",
+      "name": "CCTV-5+ 体育赛事",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctv5plus",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV4Europe.cn",
+      "name": "CCTV-4 中文国际（欧）",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctveurope/index.shtml",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "CCTV4America.cn",
+      "name": "CCTV-4 中文国际（美）",
+      "group": "央视",
+      "official_page": "https://tv.cctv.com/live/cctvamerica/",
+      "domains": [
+        "cctv.com",
+        "cntv.cn"
+      ],
+      "resolver": "cctv_config"
+    },
+    {
+      "id": "Hunan.cn",
+      "name": "湖南卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://www.mgtv.com/live-new?_source_=C",
+      "domains": [
+        "mgtv.com",
+        "hitv.com"
+      ],
+      "resolver": "manual",
+      "note": "官网入口可读取；动态播放接口未完成无鉴权直连核实"
+    },
+    {
+      "id": "Zhejiang.cn",
+      "name": "浙江卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://ztv.cztv.com/live/index.html",
+      "domains": [
+        "cztv.com"
+      ],
+      "resolver": "manual",
+      "note": "官网直播入口可读取；静态核查未确认频道对应的无鉴权 HLS"
+    },
+    {
+      "id": "Jiangsu.cn",
+      "name": "江苏卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://live.jstv.com/",
+      "domains": [
+        "jstv.com"
+      ],
+      "resolver": "literal",
+      "evidence_url": "https://live.jstv.com/assets/js/311.573bc491.js",
+      "url_pattern": "https://litchi-play-encrypted-site\\.jstv\\.com/applive/jswspro\\.m3u8(?:\\?[^\"\\s<>]*)?"
+    },
+    {
+      "id": "Dragon.cn",
+      "name": "东方卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://live.kankanews.com/huikan?id=10",
+      "domains": [
+        "kankanews.com"
+      ],
+      "resolver": "manual",
+      "note": "官网回看/直播入口可读取；频道动态接口未完成直连核实"
+    },
+    {
+      "id": "Beijing.cn",
+      "name": "北京卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://www.brtn.cn/btv/btvsy_index",
+      "domains": [
+        "brtn.cn",
+        "btime.com"
+      ],
+      "resolver": "manual",
+      "note": "官网可读取并链接北京时间直播；尚未确认频道对应的公开直连 HLS"
+    },
+    {
+      "id": "Guangdong.cn",
+      "name": "广东卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://www.gdtv.cn/",
+      "domains": [
+        "gdtv.cn",
+        "itouchtv.cn"
+      ],
+      "resolver": "manual",
+      "note": "官网入口可读取；频道动态接口未完成直连核实"
+    },
+    {
+      "id": "Shenzhen.cn",
+      "name": "深圳卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://www.sztv.com.cn/",
+      "domains": [
+        "sztv.com.cn"
+      ],
+      "resolver": "manual",
+      "note": "官网有直播入口；频道动态接口未完成直连核实"
+    },
+    {
+      "id": "Shandong.cn",
+      "name": "山东卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://v.iqilu.com/live/sdtv/index.html",
+      "domains": [
+        "iqilu.com"
+      ],
+      "resolver": "guard",
+      "evidence_url": "https://file.iqilu.com/custom/v/zhibo/js/time-shifting-local.js",
+      "markers": [
+        "aesEncrypt",
+        "aesDecrypt",
+        "md5("
+      ],
+      "restriction": "官方播放请求使用签名和加密配置；不生成签名或解密响应"
+    },
+    {
+      "id": "Henan.cn",
+      "name": "河南卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://static.hntv.tv/kds/",
+      "domains": [
+        "hntv.tv"
+      ],
+      "resolver": "guard",
+      "evidence_url": "https://static.hntv.tv/kds/js/pages/kds/kds.8f560788.js",
+      "markers": [
+        "getAuth/live/class/program",
+        "headers:{sign:"
+      ],
+      "restriction": "官方频道接口要求 sign/timestamp；不生成鉴权参数"
+    },
+    {
+      "id": "Hubei.cn",
+      "name": "湖北卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://news.hbtv.com.cn/app/tv/431",
+      "domains": [
+        "hbtv.com.cn",
+        "cjyun.org.cn",
+        "cjyun.org"
+      ],
+      "resolver": "literal",
+      "url_pattern": "https://live21-cjy\\.hbtv\\.com\\.cn/new-hbtv/new-hbws\\.m3u8(?:\\?[^\"\\s<>]*)?"
+    },
+    {
+      "id": "Southeast.cn",
+      "name": "东南卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://www.setv.fjtv.net/live/",
+      "domains": [
+        "fjtv.net"
+      ],
+      "resolver": "manual",
+      "note": "未确认直连 HLS；初次检查遇到 TLS 证书主机名不匹配，未关闭证书校验"
+    },
+    {
+      "id": "Sichuan.cn",
+      "name": "四川卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://www.sctv.com/",
+      "domains": [
+        "sctv.com"
+      ],
+      "resolver": "manual",
+      "note": "入口初查返回站点访问限制页面；未确认直连 HLS"
+    },
+    {
+      "id": "Anhui.cn",
+      "name": "安徽卫视",
+      "group": "省级及主要卫视",
+      "official_page": "https://www.ahtv.cn/",
+      "domains": [
+        "ahtv.cn"
+      ],
+      "resolver": "manual",
+      "note": "官方入口初查超时；未确认直连 HLS"
+    }
+  ]
+}
