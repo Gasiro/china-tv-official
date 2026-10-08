@@ -1,0 +1,32 @@
+name: Verify from UK runner
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '53 */6 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: official-tv-check
+  cancel-in-progress: false
+jobs:
+  uk:
+    if: vars.UK_TV_RUNNER_ENABLED == 'true'
+    runs-on: [self-hosted, macOS, uk-tv]
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test validator
+        run: python3 -m unittest -v
+      - name: Check actual egress and media
+        run: python3 maintain.py --scope uk
+      - name: Publish UK results
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/uk.m3u public/uk-status.json reports/uk.json reports/uk.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh UK verification'
+            git push
+          fi
+      - name: Show report
+        run: cat reports/uk.md >> "$GITHUB_STEP_SUMMARY"
