@@ -1,11 +1,5 @@
 {
-  "state": "verified_run",
-  "country": "GB",
-  "checked_at": "2026-10-08T02:40:39.820350+00:00",
-  "valid_until": "2026-10-09T02:40:39.820350+00:00",
-  "counts": {
-    "available": 0,
-    "restricted": 23,
-    "unverified": 10
-  }
+  "state": "expired",
+  "reason": "英国检测超过 24 小时，播放条目已清空",
+  "last_uk_check": "2026-10-08T02:40:39.820350+00:00"
 }

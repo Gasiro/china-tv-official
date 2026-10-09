@@ -1,6 +1,6 @@
 # 官方直播检查报告
 
-检测时间（UTC）：2026-10-08T23:28:35.664398+00:00；网络出口：US
+检测时间（UTC）：2026-10-09T06:23:07.696167+00:00；网络出口：US
 
 “可用”指本次英国出口技术检查通过；不是长期保证或第三方播放授权证明。APTV 人工播放另列。
 
@@ -35,7 +35,7 @@
 | [深圳卫视](https://www.sztv.com.cn/) | 未验证 | 官网有直播入口；频道动态接口未完成直连核实 |
 | [山东卫视](https://v.iqilu.com/live/sdtv/index.html) | 受限 | 官方播放请求使用签名和加密配置；不生成签名或解密响应 |
 | [河南卫视](https://static.hntv.tv/kds/) | 受限 | 官方频道接口要求 sign/timestamp；不生成鉴权参数 |
-| [湖北卫视](https://news.hbtv.com.cn/app/tv/431) | 受限 | 官方地址带查询参数/签名；不复制到公开订阅 |
+| [湖北卫视](https://news.hbtv.com.cn/app/tv/431) | 未验证 | 连接超时 |
 | [东南卫视](https://www.setv.fjtv.net/live/) | 未验证 | TLS 证书校验失败 |
 | [四川卫视](https://www.sctv.com/) | 未验证 | HTTP 405（不能仅据此判断地域限制） |
 | [安徽卫视](https://www.ahtv.cn/) | 受限 | HTTP 403（不能仅据此判断地域限制） |
