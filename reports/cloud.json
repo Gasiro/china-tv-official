@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-11-06T07:03:45.914027+00:00",
+  "checked_at": "2026-11-06T19:35:24.510119+00:00",
   "country": "US",
   "scope": "cloud",
   "geo_method": "Cloudflare country code only; no IP retained",
-  "valid_until": "2026-11-07T07:03:45.914027+00:00",
+  "valid_until": "2026-11-07T19:35:24.510119+00:00",
   "counts": {
     "available": 0,
     "restricted": 24,
@@ -21,7 +21,7 @@
           "url": "https://tv.cctv.com/live/cctv1/",
           "final_url": "https://tv.cctv.com/live/cctv1/",
           "http_status": 200,
-          "sha256": "67495738b20f5a17b02cb60323fdcde0633d41b5d01f8859fbbcefc4e1d7290c"
+          "sha256": "0e70dcf7fbde7e390e6986140b404beabcb48b0688d6fea42b2d4e5550ef1769"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -46,7 +46,7 @@
           "url": "https://tv.cctv.com/live/cctv2/",
           "final_url": "https://tv.cctv.com/live/cctv2/",
           "http_status": 200,
-          "sha256": "ac6f1df1491e183d9e20204070fe2a24568c367c4f02a5db8905186d91eb164c"
+          "sha256": "b427c0acff5caff9dfdb1c020df23e4639f9a80aaaac7ca98988751a3974ebc5"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -71,7 +71,7 @@
           "url": "https://tv.cctv.com/live/cctv3/",
           "final_url": "https://tv.cctv.com/live/cctv3/",
           "http_status": 200,
-          "sha256": "3022252858627ddaec8a14b63b2b652d74fe4e849f5219b0ef457c8910b3867e"
+          "sha256": "a5d6ce69ed46290700d3650f7a582a1fe78133aa0018b242a15e830c7b98d662"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -96,7 +96,7 @@
           "url": "https://tv.cctv.com/live/cctv4/",
           "final_url": "https://tv.cctv.com/live/cctv4/",
           "http_status": 200,
-          "sha256": "237684922549171d3f1f2b9faec5781463df4a2af5a1270d399979821c5125f3"
+          "sha256": "722eaa059adcbc885b8644e3e030c18ed676d9c82d5a1402caea73931c173d4b"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -121,7 +121,7 @@
           "url": "https://tv.cctv.com/live/cctv5/",
           "final_url": "https://tv.cctv.com/live/cctv5/",
           "http_status": 200,
-          "sha256": "dce5858c45287e63455af9111ae6adb92f6abeee6271c3487d0329990f54c46a"
+          "sha256": "62b85fba5752d77cdcb477ee82aed87df00b518b17232e7a48a717400260103a"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -146,7 +146,7 @@
           "url": "https://tv.cctv.com/live/cctv6/",
           "final_url": "https://tv.cctv.com/live/cctv6/",
           "http_status": 200,
-          "sha256": "71633c82b6b7b0ad56d18680742b71fc18bc1e80468f13a9723740a0a1848449"
+          "sha256": "4c61c8a9ddd3fa291d0272bc9754653eca56d31d818b3baf07fba28053afe5e5"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -171,7 +171,7 @@
           "url": "https://tv.cctv.com/live/cctv7/",
           "final_url": "https://tv.cctv.com/live/cctv7/",
           "http_status": 200,
-          "sha256": "588a775065007d5b4bb65480d4f2fc9c2c0e12e5d1de5fce1531b26b26b5229a"
+          "sha256": "4fa51b14bc98a15648f61573d7d2f3f37d55e41f9287d46148c760360a6b742a"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -196,7 +196,7 @@
           "url": "https://tv.cctv.com/live/cctv8/",
           "final_url": "https://tv.cctv.com/live/cctv8/",
           "http_status": 200,
-          "sha256": "b00b63e1fe177a58c37e1126f0feab9b0b5a118306f4fe97339ca0be2fcc7c4a"
+          "sha256": "1f494d3e140e443920c4029f21c469f5c000ddc02747b88f586462d5d95586b5"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -221,7 +221,7 @@
           "url": "https://tv.cctv.com/live/cctvjilu/",
           "final_url": "https://tv.cctv.com/live/cctvjilu/",
           "http_status": 200,
-          "sha256": "59237c6a3b908528368a29663afa3ab8e3c8135a3b1685944d4cc569846d9511"
+          "sha256": "cc41e4090b81de0a1e3ee166af34632634bca39809e0a971eb16378b16ac8b99"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -246,7 +246,7 @@
           "url": "https://tv.cctv.com/live/cctv10/",
           "final_url": "https://tv.cctv.com/live/cctv10/",
           "http_status": 200,
-          "sha256": "09a5d0461d2dbb89da68ab9d26fb2605b368d85b08159a9ac1f4eee3da78b7b3"
+          "sha256": "f2bada5091c8d9752862f50ffa75d1c1f081ca77b087af3e2636bb622b04aa24"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -271,7 +271,7 @@
           "url": "https://tv.cctv.com/live/cctv11/",
           "final_url": "https://tv.cctv.com/live/cctv11/",
           "http_status": 200,
-          "sha256": "8585b575d92a02e40689d425f0a12deb42c8d8cb4140c89ef7e8312c3f4ca2c8"
+          "sha256": "ffaddee5a7b0efdb59aeb6b30e20875547562b95ed6ae755ffcf4dfa4e8294a8"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -296,7 +296,7 @@
           "url": "https://tv.cctv.com/live/cctv12/",
           "final_url": "https://tv.cctv.com/live/cctv12/",
           "http_status": 200,
-          "sha256": "a3ff075f5e9d1b4e5b852abc21d715fcec4033ad81177f8d8e442e6aa705021d"
+          "sha256": "6566e4036822cfd3bcf9bd51e8182b7422d1dc94f72853bb9328ad7ec87ef928"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -321,7 +321,7 @@
           "url": "https://tv.cctv.com/live/cctv13/",
           "final_url": "https://tv.cctv.com/live/cctv13/",
           "http_status": 200,
-          "sha256": "64485a743dafc2d3e1fa39632bcb3bba9e1702455c7a48e7c0bca027b7f2dd8f"
+          "sha256": "93c1cb2aa879fa1201a69ad59028629717638988194f84ed4d36a12793a37bdd"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -346,7 +346,7 @@
           "url": "https://tv.cctv.com/live/cctvchild/",
           "final_url": "https://tv.cctv.com/live/cctvchild/",
           "http_status": 200,
-          "sha256": "be26b3e767d80da8867a685af0c625eee1e2fab81133007141622a5d2d4bf9f5"
+          "sha256": "cb712c30810558d0f1b1057caca0a61e993e2fa036a6527451da6de348892769"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -371,7 +371,7 @@
           "url": "https://tv.cctv.com/live/cctv15/",
           "final_url": "https://tv.cctv.com/live/cctv15/",
           "http_status": 200,
-          "sha256": "d5199181ed228acef4275bfd2ce8240aeaf312203f74749a036a0e3050cf00f7"
+          "sha256": "d6afa227242933247820215a0a8e035dea113afa7d899e9b66cae13a69e18ac4"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -396,7 +396,7 @@
           "url": "https://tv.cctv.com/live/cctv16/",
           "final_url": "https://tv.cctv.com/live/cctv16/",
           "http_status": 200,
-          "sha256": "dd8a956a2a887b6df68b57218b4512a916bb823be2730a6461ce49868ab6ba1e"
+          "sha256": "92d7b7e1d6b3aef206678981919efb6bcb1a1de642b2bbca417fc3c88def1a3d"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -421,7 +421,7 @@
           "url": "https://tv.cctv.com/live/cctv17/",
           "final_url": "https://tv.cctv.com/live/cctv17/",
           "http_status": 200,
-          "sha256": "1717c1cbc1a00b5ce0f3491827f0236d816b9c40191995d63fb7df713fc75ac7"
+          "sha256": "830d8b31b7f2d8e85b4573c19ecb8a96cc690d23c96f999be2373d95ab693ea7"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -446,7 +446,7 @@
           "url": "https://tv.cctv.com/live/cctv5plus",
           "final_url": "https://tv.cctv.com/live/cctv5plus/",
           "http_status": 200,
-          "sha256": "2f8df87f5edc3790bc3a284a07506c4c49ecfd21cfa0e1a06c332d6a0ff20e0f"
+          "sha256": "9c28ccca22d00e3395ea624cf6cf96d666164e44b81f78a8245c097116384659"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -471,7 +471,7 @@
           "url": "https://tv.cctv.com/live/cctveurope/index.shtml",
           "final_url": "https://tv.cctv.com/live/cctveurope/index.shtml",
           "http_status": 200,
-          "sha256": "946bb57cc718f433c177226bc4c384718f33f51f7130973848cb4948ab68d286"
+          "sha256": "323d28e330ef8c44a4717a5ff52ebafc8f616ae07886a242443084366f14895d"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -496,7 +496,7 @@
           "url": "https://tv.cctv.com/live/cctvamerica/",
           "final_url": "https://tv.cctv.com/live/cctvamerica/",
           "http_status": 200,
-          "sha256": "978c51db0e3dfbcbed4bc04bcc6f88642e5b323ab25981416c748007a6877e17"
+          "sha256": "042476c1cc24f13909ea39892414d58fdc0c3c3b5ffe2d6ae2315885136c8cbe"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -521,7 +521,7 @@
           "url": "https://www.mgtv.com/live-new",
           "final_url": "https://www.mgtv.com/live-new",
           "http_status": 200,
-          "sha256": "74ce56b776ba03fb2f30a58790550f888c44110d5f227d564c31550e40467258"
+          "sha256": "c97d886ba6cd840f7380e6aaa97340eaa913ac865d423ef748c835706911729e"
         }
       ],
       "country": "US",
@@ -578,7 +578,7 @@
           "url": "https://live.kankanews.com/huikan",
           "final_url": "https://live.kankanews.com/huikan",
           "http_status": 200,
-          "sha256": "ae329d8d12da8188b0bba06454b2fd54f017f2d87b3a6da5526df1cda8e5063b"
+          "sha256": "e3d501acea5ff3d030c0af71b5a5405b24092d56ed8973258520de2b1e8da323"
         }
       ],
       "country": "US",
@@ -597,7 +597,7 @@
           "url": "https://www.brtn.cn/btv/btvsy_index",
           "final_url": "https://www.btime.com/btv/btvsy_index",
           "http_status": 200,
-          "sha256": "0fc483ae2073e70b57cbc3e0902abcbc759ad150a8d58b4cf6c88957a912f3f7"
+          "sha256": "8107f81452852f410dbe37dc85d4e33232144c832aed66601b8cf429e7d85a40"
         }
       ],
       "country": "US",
@@ -704,7 +704,7 @@
           "url": "https://news.hbtv.com.cn/app/tv/431",
           "final_url": "https://news.hbtv.com.cn/app/tv/431",
           "http_status": 200,
-          "sha256": "8263ac76c334ae851720869d643f372624d3a641cc35d38e7042d39e20fb6181"
+          "sha256": "5ad2732bbbd535cd06841c07db9c23d18b24bc08d6c9f993e110b585704fbe09"
         }
       ],
       "country": "US",
