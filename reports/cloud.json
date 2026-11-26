@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-11-26T08:39:19.315984+00:00",
-  "country": "US",
+  "checked_at": "2026-11-26T21:45:08.581389+00:00",
+  "country": "CA",
   "scope": "cloud",
   "geo_method": "Cloudflare country code only; no IP retained",
-  "valid_until": "2026-11-27T08:39:19.315984+00:00",
+  "valid_until": "2026-11-27T21:45:08.581389+00:00",
   "counts": {
     "available": 0,
     "restricted": 21,
@@ -21,7 +21,7 @@
           "url": "https://tv.cctv.com/live/cctv1/",
           "final_url": "https://tv.cctv.com/live/cctv1/",
           "http_status": 200,
-          "sha256": "154eb59fd66fa67fdf452223d915f0c8ee4f86a92a13e801df6bd8e3bd2e8ec2"
+          "sha256": "b659056893046c5dd0639aa99536f9f981852ce4f74d0e58a0ea63612cdfa660"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -30,7 +30,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -46,7 +46,7 @@
           "url": "https://tv.cctv.com/live/cctv2/",
           "final_url": "https://tv.cctv.com/live/cctv2/",
           "http_status": 200,
-          "sha256": "5192caccb4687497b973b6c4d182c2cd6cef105c8c81ab9c6dc0bc905f97eaa9"
+          "sha256": "c8729f90a64ee182ecbbd672ba08cf99b81e7b7db1d9a4f701a7b05fb83bbe79"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -55,7 +55,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -71,7 +71,7 @@
           "url": "https://tv.cctv.com/live/cctv3/",
           "final_url": "https://tv.cctv.com/live/cctv3/",
           "http_status": 200,
-          "sha256": "e57ae68201328bab1d7e880ccb1227570bb0cdc522fa02f87f305f8ed24c2fc8"
+          "sha256": "2b76dd6e4e45a5e752779fdeca81bd1332722bb63041c829c1893b14a531e3e6"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -80,7 +80,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -96,7 +96,7 @@
           "url": "https://tv.cctv.com/live/cctv4/",
           "final_url": "https://tv.cctv.com/live/cctv4/",
           "http_status": 200,
-          "sha256": "856bb9651245118910ce2fec2d1fb8b8a065f45352f9fefb4950dc6cd9a31cf6"
+          "sha256": "657b0d27e6cb3ba8c17f15be76931a07822eaeb44fe8228a639ed384f4fcc4f5"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -105,7 +105,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -121,7 +121,7 @@
           "url": "https://tv.cctv.com/live/cctv5/",
           "final_url": "https://tv.cctv.com/live/cctv5/",
           "http_status": 200,
-          "sha256": "8dc5a60a0fcbbf8fd64c3509a4be81f8cb67fd88f18f1e27796b9d58c6c45dfd"
+          "sha256": "27c2012477985e0ab77385cda48832e4fd91c9891810a07adcff67f25af00084"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -130,7 +130,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -146,7 +146,7 @@
           "url": "https://tv.cctv.com/live/cctv6/",
           "final_url": "https://tv.cctv.com/live/cctv6/",
           "http_status": 200,
-          "sha256": "59b7f38c38dd3bbff388e8b65d971707c35a497e33d55f973ebd63f04c0c42c1"
+          "sha256": "c85dbb181d9ced5c0ce65ca892ab16497e1949e7228e39c92ab7e4eb96f2c5a7"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -155,7 +155,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -171,7 +171,7 @@
           "url": "https://tv.cctv.com/live/cctv7/",
           "final_url": "https://tv.cctv.com/live/cctv7/",
           "http_status": 200,
-          "sha256": "a57c680954455c649226d4df0d0a73cdf47bf76ca9dc178510573dcd56796c58"
+          "sha256": "7b4cb0ddd5551d9bf7d9f8f180a1bab0712effa527ec7028afaad299aeb3921d"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -180,7 +180,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -196,7 +196,7 @@
           "url": "https://tv.cctv.com/live/cctv8/",
           "final_url": "https://tv.cctv.com/live/cctv8/",
           "http_status": 200,
-          "sha256": "8271f220478e4ce7052cf9a0f89b8365cf74b853734d64d95d6b05f885020e46"
+          "sha256": "4616a0a984672899407229548b2ea4c9a7ef601cd4e4e304e2e96cd7ef40866b"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -205,7 +205,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -221,7 +221,7 @@
           "url": "https://tv.cctv.com/live/cctvjilu/",
           "final_url": "https://tv.cctv.com/live/cctvjilu/",
           "http_status": 200,
-          "sha256": "6b2a7738ca52f06e1969c42bb22371fcb2b18b2f62bb85687332dee77effaa01"
+          "sha256": "673e2c8fbd8cd9723ad3152cbc1965f72bfe1ba59109eef37e7c917acd825c99"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -230,7 +230,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -246,7 +246,7 @@
           "url": "https://tv.cctv.com/live/cctv10/",
           "final_url": "https://tv.cctv.com/live/cctv10/",
           "http_status": 200,
-          "sha256": "4ae93abb28f4a1944dcba0f3ea5b0214e6e6729cb35c89bf0ee604e9de04ae26"
+          "sha256": "b4436ddb162383a8d1f1046fa0e7eab07442e84df04ec849f2111ba1c86674bd"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -255,7 +255,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -271,7 +271,7 @@
           "url": "https://tv.cctv.com/live/cctv11/",
           "final_url": "https://tv.cctv.com/live/cctv11/",
           "http_status": 200,
-          "sha256": "8ad1c9240fee575f33502b9b01cb607ce88cf76b1f6124f9440fd6c3f5191958"
+          "sha256": "9488458e910eb5bfa6f0044c7c3cf5b138832e4d0f3f1c39b05955da11daff28"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -280,7 +280,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -296,7 +296,7 @@
           "url": "https://tv.cctv.com/live/cctv12/",
           "final_url": "https://tv.cctv.com/live/cctv12/",
           "http_status": 200,
-          "sha256": "cda461787502cbd6900066146f8e85817134bb0cd27b68a9b77f3fa962ac8ebc"
+          "sha256": "dac84b79e34cdd4e35fe93803390103cab1c878b1488b7e1b494209a3b023100"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -305,7 +305,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -321,7 +321,7 @@
           "url": "https://tv.cctv.com/live/cctv13/",
           "final_url": "https://tv.cctv.com/live/cctv13/",
           "http_status": 200,
-          "sha256": "691f5d945ad0324eecf5e4754155febaec9cb27fab3ef32d1ff888bee24c32b4"
+          "sha256": "cff74b3030015a5c014a16380b45b0c0daa28100a41574e825af0c76e82af618"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -330,7 +330,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -346,7 +346,7 @@
           "url": "https://tv.cctv.com/live/cctvchild/",
           "final_url": "https://tv.cctv.com/live/cctvchild/",
           "http_status": 200,
-          "sha256": "e003abbfa75d808a88799c8be6bba3cd0571eec93c708b016acf718fe2c4d2bd"
+          "sha256": "5f42b2b1db8c4a505e90f27f540423eaed0645a763e0d160c5ce527c92f9b5f5"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -355,7 +355,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -371,7 +371,7 @@
           "url": "https://tv.cctv.com/live/cctv15/",
           "final_url": "https://tv.cctv.com/live/cctv15/",
           "http_status": 200,
-          "sha256": "690dbb649e60a96092bf4b2bd7ab0967f8c3f02afc351866bdb1e995613f208b"
+          "sha256": "e35a0b874f23bebea53a8158ee4f85c7529ae523672009cb78edcca02fc501ce"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -380,7 +380,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -396,7 +396,7 @@
           "url": "https://tv.cctv.com/live/cctv16/",
           "final_url": "https://tv.cctv.com/live/cctv16/",
           "http_status": 200,
-          "sha256": "c40182b14467fdbcd6b5f7bb829c7cc5dd2490421653ba49d7744127264323fa"
+          "sha256": "b3e9528ef757bf6a3a0c218cb86afab5bd04cc6620a061edb1f711f6c5ff521b"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -405,7 +405,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -421,7 +421,7 @@
           "url": "https://tv.cctv.com/live/cctv17/",
           "final_url": "https://tv.cctv.com/live/cctv17/",
           "http_status": 200,
-          "sha256": "4cced78e68e31a3353a7aec04d0e99aeac59c43fbdbff7ac8288be2b43da894d"
+          "sha256": "6c55b2afe8a333b65fbdf48dec35460ac13c730bef4491b0f916741f2379ed3b"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -430,7 +430,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -446,7 +446,7 @@
           "url": "https://tv.cctv.com/live/cctv5plus",
           "final_url": "https://tv.cctv.com/live/cctv5plus/",
           "http_status": 200,
-          "sha256": "51236e8cfd91563215da1048a876f82f996d9a7f5bb15ef2e5e9fbcd276bd410"
+          "sha256": "a47fbbbcfa8b7ca268e3c20d4f6d0f135615f1ef1982194575746d1ded5f9281"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -455,7 +455,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -471,7 +471,7 @@
           "url": "https://tv.cctv.com/live/cctveurope/index.shtml",
           "final_url": "https://tv.cctv.com/live/cctveurope/index.shtml",
           "http_status": 200,
-          "sha256": "4461535cb2f1bcfdbd5a1fef19e92c3a5b3ca162439eb9894affeb3ade4316fe"
+          "sha256": "e23e632bcc499c0b3af786019591afbaba99660b7a1c3cf353f66b01f519b676"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -480,7 +480,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -496,7 +496,7 @@
           "url": "https://tv.cctv.com/live/cctvamerica/",
           "final_url": "https://tv.cctv.com/live/cctvamerica/",
           "http_status": 200,
-          "sha256": "10232400b280cff334cfce6651bc14241cdf454f40c75274a1dd26d5ec7b82a9"
+          "sha256": "0825ff807aeb0e676e5e7a3e0a9a7a94d9290f19e66e7307cc751542b822ec44"
         },
         {
           "url": "https://api.live.cntv.cn/livestatic/zs/livestatic_config/pcweb/version.json",
@@ -505,7 +505,7 @@
           "sha256": "0a16c04c81d4717e4b76eae71a4dc511b5f5e26fa89b808f0de4224f49241f58"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方 PC 配置标记 encrypted=true；停止于配置层，不代表已证明本频道视频为 DRM"
@@ -521,10 +521,10 @@
           "url": "https://www.mgtv.com/live-new",
           "final_url": "https://www.mgtv.com/live-new",
           "http_status": 200,
-          "sha256": "6370187ba8a1ad2af798350db4019964f6511275d9be74fb916586461b78fb47"
+          "sha256": "18960593d4e6d508b3972421233ef255b5b81aa4ade79238458a29c0d539a763"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官网入口可读取；动态播放接口未完成无鉴权直连核实"
@@ -543,7 +543,7 @@
           "sha256": "371b81db3d870c5772ca185a629a965e859c2a9081c4438bf769d9e890dc8c2f"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官网直播入口可读取；静态核查未确认频道对应的无鉴权 HLS"
@@ -554,18 +554,10 @@
       "group": "省级及主要卫视",
       "official_page": "https://live.jstv.com/",
       "status": "unverified",
-      "evidence": [
-        {
-          "url": "https://live.jstv.com/",
-          "final_url": "https://live.jstv.com/",
-          "http_status": 200,
-          "sha256": "d96463d2a171c071b292a0aeb077860138bbf3b40051923b53c5660e478bb159"
-        }
-      ],
-      "country": "US",
+      "evidence": [],
+      "country": "CA",
       "aptv_playback": "未验证",
-      "page_accessible": true,
-      "reason": "HTTP 404（不能仅据此判断地域限制）"
+      "reason": "连接超时"
     },
     {
       "id": "Dragon.cn",
@@ -578,10 +570,10 @@
           "url": "https://live.kankanews.com/huikan",
           "final_url": "https://live.kankanews.com/huikan",
           "http_status": 200,
-          "sha256": "f6a164915a37cbdbb29def720afc5293516091f2bc1def0f7fdd0d9a78a7367d"
+          "sha256": "f141cd3a447583fe2aaff62a885e3ad1167dbd2c5f82a0ff73477ad7e0b2966a"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官网回看/直播入口可读取；频道动态接口未完成直连核实"
@@ -597,10 +589,10 @@
           "url": "https://www.brtn.cn/btv/btvsy_index",
           "final_url": "https://www.btime.com/btv/btvsy_index",
           "http_status": 200,
-          "sha256": "3a9f4bc8c714d49f5091a3cef67cd453735d460eea2cf6fd766c41044e9f583f"
+          "sha256": "e6afc759fac3fa93be7c00ec6bf2ff78e76e40e57d0c490599ff78760352f43d"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官网可读取并链接北京时间直播；尚未确认频道对应的公开直连 HLS"
@@ -619,7 +611,7 @@
           "sha256": "b005fe9742f7b5db4aee2f566b75602be861f32173090f0455df53eecedda9a2"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官网入口可读取；频道动态接口未完成直连核实"
@@ -638,7 +630,7 @@
           "sha256": "4d6e85375d81f52981c07b55f836542429caddf39d38e8f22a8880ee65b2b749"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官网有直播入口；频道动态接口未完成直连核实"
@@ -650,7 +642,7 @@
       "official_page": "https://v.iqilu.com/live/sdtv/index.html",
       "status": "unverified",
       "evidence": [],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "reason": "HTTP 567（不能仅据此判断地域限制）"
     },
@@ -668,7 +660,7 @@
           "sha256": "cc5a4f5d5f55ba9978d5d6134f3011946b4823574886d80c5392cc20e1f1361d"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "HTTP 404（不能仅据此判断地域限制）"
@@ -684,10 +676,10 @@
           "url": "https://news.hbtv.com.cn/app/tv/431",
           "final_url": "https://news.hbtv.com.cn/app/tv/431",
           "http_status": 200,
-          "sha256": "2d09516b7e0a7450972a9380c15d12ab1028a1eb623bc7eb4140a5e36dcb42eb"
+          "sha256": "61258ab3b8a7143285b4e194f89b442f0dedd04e87f0d101a77e76a9055c08bd"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方地址带查询参数/签名；不复制到公开订阅"
@@ -699,7 +691,7 @@
       "official_page": "https://www.setv.fjtv.net/live/",
       "status": "unverified",
       "evidence": [],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "reason": "TLS 证书校验失败"
     },
@@ -710,7 +702,7 @@
       "official_page": "https://www.sctv.com/",
       "status": "unverified",
       "evidence": [],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "reason": "HTTP 405（不能仅据此判断地域限制）"
     },
@@ -725,10 +717,10 @@
           "url": "https://www.ahtv.cn/",
           "final_url": "https://www.ahtv.cn/",
           "http_status": 200,
-          "sha256": "b25c1ef3958e66344f9991644cc4b3ef46c4c61f44bc3708d100d86ca27845af"
+          "sha256": "3b603f86fc89227f2bf80cf1c4d1951f77e54b5a48226ad80ffd0190bf6b2cbb"
         }
       ],
-      "country": "US",
+      "country": "CA",
       "aptv_playback": "未验证",
       "page_accessible": true,
       "reason": "官方入口初查超时；未确认直连 HLS"
